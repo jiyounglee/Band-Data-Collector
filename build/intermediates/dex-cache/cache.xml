@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jiyounglee/Workspace/BandDataCollector/libs/microsoft-band-1.3.20307.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f14888994429a404549c37653bc6e4c6a8c39a8e">
+        <dex dex="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/transforms/dex/debug/folders/1000/2/microsoft-band-1.3.20307.2_b6d2f6e3e452e4234caf05f84862360c10210d09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="02914fcc16dd936e41934e9260c70ddb74e8226e">
+        <dex dex="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea46b07d907cd14006f97e801db7a7a423037bde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jiyounglee/Workspace/BandDataCollector/libs/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b54cf0400e2248d6c133c7b0a77dea1be09978cc">
+        <dex dex="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/transforms/dex/debug/folders/1000/2/firebase-client-android-2.5.2_182ca1b2ce7261201afdefafd2b5bbfff1c5871f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="96d7069977c88313367090081a8662f9bb526813">
+        <dex dex="/Users/jiyounglee/Workspace/BandDataCollector/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1041c8f546c3766b2f1c7d21b6fb55d72178fb69/classes.dex" />
+    </item>
+
+</items>
